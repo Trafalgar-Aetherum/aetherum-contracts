@@ -1,0 +1,10 @@
+{
+  "network": "sepolia",
+  "deployer": "0xF1A94a111aC56F2eadeec930b7B9bAE79035D7cF",
+  "timestamp": "2026-03-20T19:13:25.726Z",
+  "contracts": {
+    "AetherumUSJurisdictionModule": "0xe992DB488C5Eac01D3d42c93c425d3F8e2e0CB6b",
+    "AetherumCollateralLTVModule": "0x5a9Ba40b48EdDE8772a0280c51cCeA32589779F4",
+    "AetherumCUMemberModule": "0x1fF9a4c215de2c375D5639e1C115EEDe0c8B2897"
+  }
+}
